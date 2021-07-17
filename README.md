@@ -1,5 +1,7 @@
 # Calls Music — Telegram bot + userbot for streaming audio in group calls
-
+ <p align="center">
+  <img src="https://telegra.ph/file/f08e8b9e68eb062e877a5.jpg">
+</p
 ## ✍🏻 Requirements
 
 - FFmpeg
@@ -32,7 +34,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/callsmusic)
 
 ## ℹ️ Commands
 
