@@ -87,4 +87,5 @@ async def play(_, message: Message):
         )
     else:
         await callsmusic.set_stream(chat_id, file)
-        await response.edit_text('<b>▶️ Playing...</b>')
+        await response.edit_text('<b>https://telegra.ph/file/ab8d1f101de24c54f2407.jpg</b> <b>▶️ Playing...</b>')
+        await response.
